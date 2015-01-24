@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSSwitchCell</string>
+		<key>default</key>
+		<true/>
+		<key>defaults</key>
+		<string>org.benrosen.appnoti</string>
+		<key>icon</key>
+		<string>AppNoti.png</string>
+		<key>key</key>
+		<string>enabled</string>
+		<key>label</key>
+		<string>AppNoti</string>
+		<key>PostNotification</key>
+		<string>org.benrosen.appnoti/preferencechanged</string>
+	</dict>
+</dict>
+</plist>

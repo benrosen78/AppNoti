@@ -1,0 +1,10 @@
+Package: org.benrosen.appnoti
+Name: AppNoti
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ben Rosen
+Author: Ben Rosen
+Section: Tweaks
+Version: 0.0.1-66
+Installed-Size: 76
